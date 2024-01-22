@@ -1,3 +1,5 @@
+//unary arithemetic operator
+//post increment operator
 public class Operator3 {
     public static void main(String[] args) {
         int a = 10;

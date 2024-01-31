@@ -13,6 +13,7 @@ public class Loops13 {
         }
 
         System.out.println("number was: "+n);
+        sc.close();
     }while(true);
     }
 }

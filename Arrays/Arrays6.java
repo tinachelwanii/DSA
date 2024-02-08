@@ -1,3 +1,4 @@
+//reverse an array
 public class Arrays6 {
     public static void reverse(int numbers[]){
         int first=0, last = numbers.length-1;

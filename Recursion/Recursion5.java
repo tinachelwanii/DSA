@@ -12,6 +12,6 @@ public class Recursion5 {
     } 
     public static void main(String[] args) {
         int n=25;
-        System.err.println(fib(n));
+        System.out.println(fib(n));
     }
 }

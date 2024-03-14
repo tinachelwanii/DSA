@@ -10,6 +10,6 @@ public class Recursion4 {
     }
     public static void main(String[] args) {
         int n=5;
-        System.err.println(calcSum(n));
+        System.out.println(calcSum(n));
     }
 }
